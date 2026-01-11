@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-PATH="$PATH:$USERPROFILE/AppData/Local/Android/sdk/platform-tools:${HOME}/Library/Android/sdk/platform-tools:${HOME}/Android/Sdk/platform-tools"
 EX_ASTRIS_GRAPHICS_SETTINGS="/storage/emulated/0/Android/data/com.gryphline.exastris.gp/files/GraphicOptionSaveSetting"
 if [[ -f "$EX_ASTRIS_GRAPHICS_SETTINGS" ]]; then
 	# Update frameRate to 120
