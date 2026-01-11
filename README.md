@@ -1,7 +1,7 @@
 # Ex Astris FPS Unlocker
 Unlocks Ex Astris's FPS above 60 FPS.
 
-Currently only Android is supported, but iOS can be theoretically supported too.
+Currently only Android is supported, but iOS/macOS (PlayCover) can be theoretically supported too.
 
 # Is this safe?
 Ex Astris is a singleplayer game, and the cloud save sync doesn't include graphics settings, so there *should* be no risk of bans for modifying the client graphics settings file, but **please use this at your own risk.**
