@@ -21,3 +21,5 @@ All this is doing is modifying the JSON file (no extension) at `/storage/emulate
 	* Ex Astris is a *very* demanding game. Your GPU probably isn't fast enough. The title menu should be able to hit 120 FPS, though.
 * I see an error `/storage/emulated/0/Android/data/com.gryphline.exastris.gp/files/GraphicOptionSaveSetting: No such file or directory`!
 	* You need to open the game at least once and let it reach at least the "Ex Astris" title screen.
+* I see an error `'adb' is not recognized as an internal or external command, operable program or batch file.`
+	* https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or
