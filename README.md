@@ -4,7 +4,7 @@ Unlocks Ex Astris's FPS above 60 FPS.
 Currently only Android is supported, but iOS can be theoretically supported too.
 
 # Is this safe?
-Ex Astris is a singleplayer game, and the cloud save sync doesn't include graphics settings, so there *should* be no risk of bans for modding, but please do this at your own risk.
+Ex Astris is a singleplayer game, and the cloud save sync doesn't include graphics settings, so there *should* be no risk of bans for modifying the client graphics settings file, but **please use this at your own risk.**
 
 All this is doing is modifying the JSON file (no extension) at `/storage/emulated/0/Android/data/com.gryphline.exastris.gp/files/GraphicOptionSaveSetting` and replacing `"frameRate": 60` with `"frameRate": 120`. So you can do it manually if you want using `adb pull` and `adb push` or whatever other method you might have to edit JSON files like that.
 
