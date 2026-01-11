@@ -23,3 +23,5 @@ All this is doing is modifying the JSON file (no extension) at `/storage/emulate
 	* You need to open the game at least once and let it reach at least the "Ex Astris" title screen.
 * I see an error `'adb' is not recognized as an internal or external command, operable program or batch file.`
 	* https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or
+* I'm using a Mac and clicking the .sh file doesn't do anything.
+	* https://apple.stackexchange.com/a/322693
