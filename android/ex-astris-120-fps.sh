@@ -7,5 +7,5 @@ if [[ -f "$EX_ASTRIS_GRAPHICS_SETTINGS" ]]; then
 	# Display the updated file
 	cat "$EX_ASTRIS_GRAPHICS_SETTINGS"
 else
-	echo "Please open Ex Astris and let it reach at least the title screen. (Error: Couldn't find $FILE)"
+	echo "Please open Ex Astris and let it reach at least the Hypergryph/Gryphline/Nous Wave Studio logos, then fully close the game. (Error: Couldn't find $FILE)"
 fi
