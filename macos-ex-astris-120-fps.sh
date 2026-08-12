@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-EX_ASTRIS_GRAPHICS_SETTINGS="/storage/emulated/0/Android/data/com.gryphline.exastris.gp/files/GraphicOptionSaveSetting"
+EX_ASTRIS_GRAPHICS_SETTINGS="$HOME/Library/Containers/com.gryphline.exastris.ios/Data/Documents/GraphicOptionSaveSetting"
 if [[ -f "$EX_ASTRIS_GRAPHICS_SETTINGS" ]]; then
 	# Update frameRate to 120
 	sed -i 's/^\([[:space:]]*\)"frameRate":[[:space:]]*[0-9][0-9]*,/\1"frameRate": 120,/' "$EX_ASTRIS_GRAPHICS_SETTINGS"
