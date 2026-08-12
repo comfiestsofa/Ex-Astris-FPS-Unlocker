@@ -46,8 +46,8 @@ All this is doing is modifying the JSON file (which has no extension) at `Graphi
 	* If you want to do it manually instead, open `~/Library/Containers/com.gryphline.exastris.ios/Data/Documents/GraphicOptionSaveSetting` in a text editor and replace `"frameRate": 60` with `"frameRate": 120`.
 
 # FAQ
-* My game isn't running above 60 FPS!
-	* Ex Astris is a *very* demanding game. Your GPU probably isn't fast enough. The title menu should be able to hit 120 FPS, though.
+* My game isn't hitting a stable 120 FPS!
+	* Ex Astris is a *very* demanding game. Your GPU probably isn't fast enough. The title menu at least should definitely be able to hit 120 FPS, though.
 * I see an error `'adb' is not recognized as an internal or external command, operable program or batch file.`
 	* https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or
 * I'm on macOS and opening the .sh file doesn't do anything.
