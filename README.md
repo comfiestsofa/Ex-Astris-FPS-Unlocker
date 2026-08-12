@@ -50,5 +50,5 @@ All this is doing is modifying the JSON file (which has no extension) at `Graphi
 	* Ex Astris is a *very* demanding game. Your GPU probably isn't fast enough. The title menu should be able to hit 120 FPS, though.
 * I see an error `'adb' is not recognized as an internal or external command, operable program or batch file.`
 	* https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or
-* I'm using a Mac and clicking the .sh file doesn't do anything.
+* I'm on macOS and opening the .sh file doesn't do anything.
 	* https://apple.stackexchange.com/a/322693
